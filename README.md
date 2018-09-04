@@ -1,6 +1,6 @@
 **DESCRIPTION**
 
-This is mongo database Docker image for my chat application (https://bitbucket.org/punkkk/chat/src)
+This is mongo database Docker image for my chat application (https://github.com/punkkk/chat-server)
 
 **BEFORE START**
 
